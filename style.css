@@ -1,0 +1,11 @@
+p.text{
+	color: red;
+	font-size: 200%;
+	background-color: yellow;
+	border-radius: 25px;
+	text-align: center;
+	text-decoration: underline;
+}
+body{
+		background-color: red;
+}
