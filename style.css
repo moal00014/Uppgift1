@@ -1,11 +1,13 @@
 p.text{
-	color: red;
+	color: black;
 	font-size: 200%;
 	background-color: yellow;
-	border-radius: 25px;
+	border-radius: 200px;
 	text-align: center;
 	text-decoration: underline;
 }
 body{
-		background-color: red;
+		background-color: white;
 }
+
+
