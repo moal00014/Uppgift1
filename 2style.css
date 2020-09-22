@@ -1,0 +1,15 @@
+p.text{
+	color: black;
+	font-size: 200%;
+	border-radius: 25px;
+	text-align: left;
+	text-decoration: underline;
+}
+body{
+	background-color: white;
+	display: grid;
+	grid-template-columns: 20% 20%;
+	grid-template-rows: 20% 20%;
+
+}
+
